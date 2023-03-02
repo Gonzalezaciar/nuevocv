@@ -1,0 +1,29 @@
+h1{
+    width: 900px;
+    border: 15px solid red;
+    font-weight: bold;
+    color:blue; 
+    padding: 10px 50px 10px 50px;
+    margin: 10px 5px 10px 50px;
+    
+ }
+ section{
+    border: 10px solid green;
+    font-weight: bold;
+    color:blue; 
+    padding: 10px 50px 10px 50px;
+    margin: 10px 5px 10px 50px;
+
+ }
+h2{
+    border: 5px solid green;
+    font-weight: bold;
+    color:blue; 
+    padding: 10px 50px 10px 50px;
+    margin: 10px 5px 10px 50px;
+
+    color:red
+} 
+p{
+    font-weight: bold;
+}
